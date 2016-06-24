@@ -9,11 +9,11 @@ The script has descriptions on every step, so it is very self explanatory.
 
 the necesary files for the function to work are:
 
-*features.txt
-*subject_test.txt   
-*subject_train.txt   
-*tidy_data.txt       
-*X_test.txt         
-*X_train.txt         
-*y_test.txt        
-*y_train.txt
+* features.txt
+* subject_test.txt   
+* subject_train.txt   
+* tidy_data.txt       
+* X_test.txt         
+* X_train.txt         
+* y_test.txt        
+* y_train.txt
